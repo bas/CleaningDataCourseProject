@@ -75,10 +75,10 @@ The subset has 68 columns:
   - subject
   - activity_id
 
-  ## Descriptive activity names to name the activities in the data set (step 3)
+## Descriptive activity names to name the activities in the data set (step 3)
 
-  - A column was then added by merging in the activity labels using the activity id in a variable `activity` taking the data set to 69 columns.
-  - The column is moved to the first row in the data set
+- A column was then added by merging in the activity labels using the activity id in a variable `activity` taking the data set to 69 columns.
+- The column is moved to the first row in the data set
 
 ## Appropriately labels the data set with descriptive variable names (step 4)
 
