@@ -3,6 +3,8 @@
 ## Data set
 The original data set used is the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
+The steps are coded in a function called `run_analysis` in the R script `run_analysis.R`. The script return the data set from step 5.
+
 ## Merged training and test sets to create one data set (step 1)
 
 There data set is separated into two data sets:
@@ -87,6 +89,6 @@ The subset has 68 columns:
   - The labels were translated to lower case.
   - Dots (`.`) were replaced by single underscores (`_`) and any trailing dots were removed.
 
-## The average of each variable for each activity and each subject
+## The average of each variable for each activity and each subject (step 5)
 
 Finally a new data set was created using `dplyr` to create the average of each variable for each activity and each subject.
