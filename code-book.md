@@ -1,5 +1,7 @@
 # Code Book
 
+This code book describes the design and variables for the cleaning data course project.
+
 ## Data set
 The original data set used is the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
