@@ -15,4 +15,4 @@ run_analysis()
 
 - The [run_analysis.R](run_analysis.R) script assumes the data set is extracted in `./UCI HAR Dataset`.
 - The five assignment steps are included as comments.
-- The [code book](code-book.md) describes the data and data cleaning and summarizing steps.
+- A separate [code book](code-book.md) describes the data and data cleaning and summarizing steps.
