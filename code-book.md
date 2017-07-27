@@ -3,7 +3,7 @@
 ## Data set
 The original data set used is the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-The steps are coded in a function called `run_analysis` in the R script [run_analysis.R]("run_analysis.R"). The script return the data set from step 5.
+The steps are coded in a function called `run_analysis` in the R script [run_analysis.R](run_analysis.R). The script return the data set from step 5.
 
 ## Merged training and test sets to create one data set (step 1)
 
